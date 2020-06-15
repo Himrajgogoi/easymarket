@@ -1,0 +1,67 @@
+  .row-header {
+      margin: 0px auto;
+      padding: 0px auto;
+  }
+  
+  .jumbotron {
+      margin: 0px auto;
+      padding: 80px 30px 80px 30px;
+      color: white;
+  }
+  
+  .row-content {
+      margin: 0px auto;
+      padding: 50px 0px 50px 0px;
+      border-bottom: 3px ridge;
+      min-height: 400px;
+  }
+  
+  .row-content2 {
+      margin: 0px auto;
+      padding: 50px 0px 10px 0px;
+      min-height: 400px;
+  }
+  
+  .row-content3 {
+      margin: 0px auto;
+      padding: 30px 0px 40px 0px;
+  }
+  
+  .footer {
+      margin: 0px auto;
+      padding: 50px 0px 50px 0px;
+      background-color: lightblue;
+  }
+  
+  .address {
+      font-size: 100%;
+      color: black;
+  }
+  
+  .navbar {
+      background-color: black;
+  }
+  
+  .nav-brand {
+      color: white;
+  }
+  
+  .navbar-toggler-icon {
+      color: white;
+  }
+  
+  body {
+      padding: 50px 0px 0px;
+      z-index: 0;
+  }
+  
+  #fnt {
+      color: rgb(72, 72, 197);
+  }
+  
+  header {
+      background-image: url(https://cdn.pixabay.com/photo/2014/08/26/15/22/fruit-428057_1280.jpg);
+      opacity: 80%;
+      background-size: cover;
+      background-position: center center;
+  }
